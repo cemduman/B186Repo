@@ -18,3 +18,6 @@ To handle that process: we will use git commands on terminal.
 0. git add filename.ext
 1. Ggit commit -m "comment"
 2. git push
+
+to get updates from github: git pull
+switch between branches here: git checkout main || git checkout "branchname"
